@@ -11,8 +11,7 @@ I sometimes read, sketch and write shitty stories.
 
 when I'm not doing that I skate or go on hikes.
 
-and if I still have some spare time : I walk around with a book in my hand looking sophisticated browsing for any new cafes/spots
-to meet new people from all walks of life pretending to fain interest in their stories.
+and if I still have some spare time left : You'll find me walking around town with a book in my hand, looking sophisticated, seeking attention, browsing new cafes/spots, meeting people from all walks of life and pretending to fain interest in their stories. 
 <hr>
 <b>Oh :) You wanna know about the professional stuff ... :</b><br> 
 
