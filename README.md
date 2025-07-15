@@ -35,7 +35,7 @@ so if you're someone interested and capable of working on these things, feel fre
  -->
 </div>
 
-<h2>Do visit my portfolio/blog at : <a target="_blank" href="http://aniket-sharma.herokuapp.com/">aniketsharma.com</a></h2> 
+<h2>Do visit my portfolio/blog at : <a target="_blank" href="https://portfolio2-0-9rdw.onrender.com/">aniketsharma.com</a></h2> 
 <i>I need a feedback on the website's frontend and functioning. 
  I'm working on updating the whole thing as I'm writting this.</a>. Feel free to scold me if I still haven't done it. You can use swearwords too. :) </i>    
 
